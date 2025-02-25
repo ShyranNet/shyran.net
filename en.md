@@ -29,7 +29,7 @@
 Some recent activities may be found at my [GitHub](https://github.com/sshyran) and [Linkedin](https://www.linkedin.com/in/shyran) profile page.
 
 I use GitHub and Azure to Code, Host & Deliver content to my clients (B2C). 
-This Page is also served through [GitHub Pages](https://shyran-net.github.io/shyran.net/) to maintain contact with Subcontractors, current and potential Clients.
+This Page is also served through [GitHub Pages](https://pages.github.com/) to maintain contact with Subcontractors, current and potential Clients.
 
 #### Featured Services:
 * **Codebase Security Analysis & QA** - code quality lab, for open sourced projects only (paid advissory & setup);
