@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.shyran.net.pwa",
+      "sha256_cert_fingerprints": [
+        "29:04:2E:62:40:48:7D:A2:6D:C3:77:2E:40:7A:00:C5:36:A1:E0:1C:AA:5B:D4:B8:A1:A0:2C:17:DC:11:DC:57"
+      ]
+    }
+  }
+]
