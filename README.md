@@ -81,7 +81,7 @@ service@shyran.pp.ua
 98.991.986.0
 93.180.676.8
 68.225.225.4
-DUNS: 506878711
+DUNS: [506878711](https://www.dnb.com/business-directory/company-profiles.serhii_shyran.6f2870f98757a4766dbfe030b7090551.html)
 Іршава, UA-90100
 ```
 
