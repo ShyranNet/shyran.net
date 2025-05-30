@@ -75,7 +75,7 @@
 Для отримання додаткової інформації - будь ласка, напишіть або зв’яжіться зі мною напряму.
 
 ### Сергій Ширан, приватний підприємець
-```
+
 service@shyran.net
 service@shyran.pp.ua
 98.991.986.0
@@ -83,7 +83,7 @@ service@shyran.pp.ua
 68.225.225.4
 DUNS: [506878711](https://www.dnb.com/business-directory/company-profiles.serhii_shyran.6f2870f98757a4766dbfe030b7090551.html)
 Іршава, UA-90100
-```
+
 
 
 <!--
